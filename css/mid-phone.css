@@ -1,0 +1,48 @@
+/* Navigation bar : Logo */
+#logo img{
+    height: 55px;
+}
+
+#navbar ul li a{
+    padding: 6px;
+    border-radius: 8px;
+    margin: 0px 6px;
+}
+
+/* Services Section */
+#services{
+    margin: 0px 3px;
+}
+
+#services .box{
+    padding: 8px;
+    border-radius: 12px;
+    margin-bottom: 8px;
+}
+
+#services .box img{
+    height: 100px;
+}
+
+/* About Section */
+#clients img{
+    height: 100px;
+}
+
+/* Utility Classes */
+.h-primary{
+    font-size: 2rem;
+    padding: 6px;
+}
+
+.h-secondary{
+    font-size: 1.3rem;
+    padding: 6px;
+}
+
+.btn{
+    font-size: 1rem;
+    border-radius: 12px;
+    padding: 5px 12px;
+    margin: 11px;
+}
